@@ -85,3 +85,4 @@ Infosys Integrated Annual Report 2025–26.
 ## 📊 Project Preview
 
 ![Infosys Revenue and Net Profit Trend](Infosys-Revenue-Profit-Trend.png)
+[Infosys Financial Analysis](Infosys-Financial-Analysis.png)
